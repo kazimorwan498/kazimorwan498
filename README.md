@@ -39,7 +39,7 @@ Skills: HTML / CSS / JS
 
 ## Best Repo -
 
-[![Tinyone_WebPage](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone_WebPage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/Tinyone_WebPage)
+[![Tinyone_WebPage](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/Tinyone/)
 [![Education_Board_Result_Website_Clone](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Education_Board_Result_Website_Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/Education_Board_Result_Website_Clone)
 
 <p align="left">
