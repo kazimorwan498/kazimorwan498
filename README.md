@@ -4,13 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Kazi Morwan</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=kazimorwan498&color=red)
+![](https://visitcount.itsvg.in/api?id=kazimorwan498&icon=0&color=0)
 
-Skills: JS / HTML / CSS
+Skills: HTML / CSS / JS
 
 </div>
 
