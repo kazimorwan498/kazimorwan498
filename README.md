@@ -63,7 +63,6 @@ Skills: HTML / CSS / JS
 [![Tinyone_WebPage](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/Tinyone/)
 [![Education_Board_Result_Website_Clone](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Education_Board_Result_Website_Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/Education_Board_Result_Website_Clone)
 [![ActiveBox](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=ActiveBox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/ActiveBox)
-
 [![helloswaps](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=helloswaps&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/helloswaps)
 
 <a href="https://github.com/kazimorwan498?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -80,10 +79,10 @@ Skills: HTML / CSS / JS
 
 <p align="center">
     <a href="https://github.com/kazimorwan498">
-      <img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/>
+      <img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="51.2%"/>
     </a>
     <a href="https://github.com/kazimorwan498">
-      <img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/>
+      <img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="46%"/>
     </a>
     <br/>
 </p>
@@ -93,7 +92,6 @@ Skills: HTML / CSS / JS
 </p>
 
 <br/>
-
 <br/>
 
 ## Connect with me
@@ -112,4 +110,3 @@ Skills: HTML / CSS / JS
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
     </a>
 </div>
-
