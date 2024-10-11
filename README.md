@@ -1,46 +1,67 @@
 <p align="center">
-  <img src="https://github.com/kazimorwan498/kazimorwan498/blob/main/code.jpg?raw=true" alt="I am kazimorwan498"/>
+  <img src="./code.jpg" alt="I am kazimorwan498"/>
 </p>
+
+<br>
 
 <h1 align="center">Hi 👋, I'm Kazi Morwan</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=kazimorwan498&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=kazimorwan498&icon=0&color=0)
 
 Skills: HTML / CSS / JS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+<br>
 
+- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 - 🌱 I’m currently learning Frontend web-development.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
+- 💬 Ask me about **HTML5, CSS3, JS**
+- 📫 How to reach me: **<kazimdmorwan498@gmail.com>**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kazimorwan498](https://github.com/kazimorwan498)
+<br>
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+## Connect with me
 
-- 📫 How to reach me **<kazimdmorwan498@gmail.com>**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-<a href="https://www.facebook.com/kazimorwan498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kazi Morwan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kazimorwan498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kazi Morwan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kazimorwan498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kazi Morwan" height="30" width="40" /></a>
+<div style="text-align: center;">
+    <a href="https://youtube.com/@kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://facebook.com/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://codepen.io/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+    </a>
+</div>
 
 ## Use To Code
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="margin: 0 10px;" />
+</div>
 
 <br/>
 
-## Best Repo -
+## Best Repo
 
 [![Tinyone_WebPage](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/Tinyone/)
 [![Education_Board_Result_Website_Clone](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Education_Board_Result_Website_Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/Education_Board_Result_Website_Clone)
+[![ActiveBox](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=ActiveBox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/ActiveBox)
+[![helloswaps](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=helloswaps&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kazimorwan498/helloswaps)
 
 <p align="left">
   <a href="https://github.com/kazimorwan498?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -50,7 +71,7 @@ Skills: HTML / CSS / JS
 <hr/>
 <br/>
 
-## Github Stats -
+## Github Stats
 
 <p align="center">
   <a href="https://github.com/kazimorwan498">
@@ -59,9 +80,13 @@ Skills: HTML / CSS / JS
 </p>
 
 <a>
-    <a href="https://github.com/kazimorwan498"><img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/kazimorwan498"><img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+    <a href="https://github.com/kazimorwan498">
+      <img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/>
+    </a>
+    <a href="https://github.com/kazimorwan498">
+      <img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/>
+    </a>
+    <br/>
 </a>
 
 <p align="center">
@@ -74,15 +99,17 @@ Skills: HTML / CSS / JS
 
 ## Connect with me
 
-<div align="center">
-<br/>
-<a href="https://youtube.com/@kazimorwan498" target="_blank">
-<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://instagram.com/kazimorwan498" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://facebook.com/kazimorwan498" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
+<div style="text-align: center;">
+    <a href="https://youtube.com/@kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://facebook.com/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://codepen.io/kazimorwan498" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+    </a>
 </div>
