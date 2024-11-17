@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./code.jpg" alt="I am kazimorwan498"/>
+  <img src="./code.jpg" alt="Code"/>
 </p>
 
 <br>
@@ -23,7 +23,7 @@ Skills: HTML / CSS / JS
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
 
-- 💬 Ask me about **HTML5, CSS3, JS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me: **<kazimdmorwan498@gmail.com>**
 
@@ -44,6 +44,9 @@ Skills: HTML / CSS / JS
     <a href="https://codepen.io/kazimorwan498">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
     </a>
+    <a href="https://www.figma.com/@kazimorwan498">
+       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </a>
 </p>
 
 <br>
@@ -51,23 +54,39 @@ Skills: HTML / CSS / JS
 ## Use To Code
 
 <p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/bootstrap-%23712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages" />
 </p>
 
 <br/>
 
 ## Best Repositories
 
-[![Tinyone_WebPage](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/Tinyone/)
-[![Education_Board_Result_Website_Clone](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Education_Board_Result_Website_Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/Education_Board_Result_Website_Clone)
-[![ActiveBox](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=ActiveBox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/ActiveBox)
-[![helloswaps](https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=helloswaps&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=140)](https://github.com/kazimorwan498/helloswaps)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <a href="https://github.com/kazimorwan498/Tinyone/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Tinyone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150" alt="Tinyone WebPage" />
+  </a>
+
+  <a href="https://github.com/kazimorwan498/Education_Board_Result_Website_Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Education_Board_Result_Website_Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150" alt="Education Board Result Website Clone" />
+  </a>
+
+  <a href="https://github.com/kazimorwan498/ActiveBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=ActiveBox&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150" alt="ActiveBox" />
+  </a>
+
+  <a href="https://github.com/kazimorwan498/helloswaps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=helloswaps&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150" alt="helloswaps" />
+  </a>
+</div>
 
 <a href="https://github.com/kazimorwan498?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
