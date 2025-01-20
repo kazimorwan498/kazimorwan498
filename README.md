@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Kazi Morwan</h1>
-<h3 align="center">Fronend Developer | Speed Learner</h3>
+<h3 align="center">Frontend Developer | Speed Learner</h3>
 
 <div align="center">
 
